@@ -1,2 +1,7 @@
 kivy_venv/
 KivyMD/
+virt/
+temp/
+/template.html
+/test.html
+/test.py
