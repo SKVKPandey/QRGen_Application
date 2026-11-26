@@ -1,5 +1,10 @@
-# QRGen_Application
+# QRGen
 
-This is the under-development version of the QRGen_Application.
+A desktop app in Python and KivyMD (2022) that generates QR codes from text or links, scans them, and saves them.
 
-The complete version will be uploaded soon.
+## Run
+
+```bash
+pip install kivy kivymd qrcode pillow
+python main.py
+```
